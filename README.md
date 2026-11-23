@@ -47,7 +47,9 @@ pip install torch==1.7.1+cu110 -f https://download.pytorch.org/whl/cu110/torch_s
 pip install -r requirements.txt
 ```
 
-Also needs `six` and `setuptools==59.5.0`. Put the official repo in `third_party/M-ABSA`, download `google/mt5-base` into `eval_baseline_mT5/mT5-base`, and copy the files from `src/` over the originals in `eval_baseline_mT5/`. Data goes in `data/tasd/restaurant/<lang>/`.
+Also needs `six` and `setuptools==59.5.0`. Put the official repo in `third_party/M-ABSA`, download `google/mt5-base` into `eval_baseline_mT5/mT5-base`, and copy the files from `src/` over the originals in `eval_baseline_mT5/`. Data goes in `data/tasd/restaurant/<lang>/`
+
+Create an empty `results_log` folder before running (the code does not create it).
 
 ## Demo
 
@@ -57,4 +59,4 @@ Also needs `six` and `setuptools==59.5.0`. Put the official repo in `third_party
 
 ## Notes
 
-The app runs without the copy constraint. Technical report: see `report/`.
+The app runs without the copy constraint. Technical report: `report/M-ABSA_Technical_Report.docx`.
