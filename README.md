@@ -52,6 +52,7 @@ Also needs `six` and `setuptools==59.5.0`. Put the official repo in `third_party
 ## Demo
 
 `python app/app.py` (Gradio). Model checkpoints (about 2.2 GB each) are not in this repo.
+
 ![Demo](report/app_demo.png)
 
 ## Notes
