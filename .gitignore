@@ -1,0 +1,12 @@
+third_party/
+outputs/
+data/
+mT5-base/
+*.ckpt
+*.bin
+__pycache__/
+*.pyc
+*.bak*
+*.log
+absa_official_freeze.txt
+results/results_log_backup*/

@@ -1,0 +1,7 @@
+editdistance==0.8.1
+gradio==3.50.2
+numpy==1.24.4
+pytorch-lightning==0.8.1
+sentencepiece==0.1.91
+torch==1.7.1+cu110
+transformers==4.0.0
