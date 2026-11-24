@@ -59,4 +59,4 @@ Create an empty `results_log` folder before running (the code does not create it
 
 ## Notes
 
-The app runs without the copy constraint. Technical report: `report/M-ABSA_Technical_Report.docx`.
+The app runs without the copy constraint. Technical report: report/M-ABSA_Technical_Report.pdf (Word version also in report/).
