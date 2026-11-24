@@ -57,6 +57,6 @@ Create an empty `results_log` folder before running (the code does not create it
 
 ![Demo](report/app_demo.png)
 
-## Notes
+## Technical report
 
-The app runs without the copy constraint. Technical report: report/M-ABSA_Technical_Report.pdf (Word version also in report/).
+https://drive.google.com/file/d/1Q7LZ6ec_gpZAkTNSh5SMRQnaGoS0rCMd/view?usp=sharing. 
