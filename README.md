@@ -59,4 +59,6 @@ Create an empty `results_log` folder before running (the code does not create it
 
 ## Technical report
 
-https://drive.google.com/file/d/1Q7LZ6ec_gpZAkTNSh5SMRQnaGoS0rCMd/view?usp=sharing. 
+📄 [M-ABSA Technical Report (PDF, Google Drive)](https://drive.google.com/file/d/1Q7LZ6ec_gpZAkTNSh5SMRQnaGoS0rCMd/view?usp=sharing)
+
+A copy is also available in the repository: [`report/M-ABSA_Technical_Report.pdf`](report/M-ABSA_Technical_Report.pdf)
